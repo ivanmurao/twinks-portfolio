@@ -4,7 +4,7 @@ const HeaderSocials = () => {
   return (
     <div className="header__socials">
       <a
-        href="https://www.facebook.com/twinkssgenon/"
+        href=""
         className="home__social-link"
         target="_blank"
         rel="noopener noreferrer"
@@ -13,7 +13,7 @@ const HeaderSocials = () => {
       </a>
 
       <a
-        href="https://www.linkedin.com/in/twinkle-genon/"
+        href=""
         className="home__social-link"
         target="_blank"
         rel="noopener noreferrer"
@@ -22,7 +22,7 @@ const HeaderSocials = () => {
       </a>
 
       <a
-        href="https://www.instagram.com/twinksgenon/"
+        href=""
         className="home__social-link"
         target="_blank"
         rel="noopener noreferrer"
@@ -33,7 +33,7 @@ const HeaderSocials = () => {
     
 
       <a
-        href="https://github.com/twinklegenon"
+        href=""
         className="home__social-link"
         target="_blank"
         rel="noopener noreferrer"
@@ -43,7 +43,7 @@ const HeaderSocials = () => {
 
 
       <a
-        href="https://medium.com/@twinklegenon7"
+        href=""
         className="home__social-link"
         target="_blank"
         rel="noopener noreferrer"

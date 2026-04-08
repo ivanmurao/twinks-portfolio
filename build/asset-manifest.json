@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6940ab04.css",
+    "main.js": "/static/js/main.be4ac056.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/IMG3.png": "/static/media/IMG3.d83ee27cc473cc77ea3e.png",
+    "static/media/IMG2.png": "/static/media/IMG2.22270f8ac7ab9a89516f.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/Twinkle-Genon_Resume.pdf": "/static/media/Twinkle-Genon_Resume.b4910c77e08754251da5.pdf",
+    "static/media/Me.jpg": "/static/media/Me.add45d8baa798d8f8d43.jpg",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/IMG1.jpg": "/static/media/IMG1.a061e3335bbe6196e80d.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/react.png": "/static/media/react.d7210c96cab72ed8c60d.png",
+    "static/media/aws.png": "/static/media/aws.4bf404c26ed18415e7e2.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/index.html",
+    "main.6940ab04.css.map": "/static/css/main.6940ab04.css.map",
+    "main.be4ac056.js.map": "/static/js/main.be4ac056.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6940ab04.css",
+    "static/js/main.be4ac056.js"
+  ]
+}
